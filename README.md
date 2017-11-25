@@ -1,2 +1,2 @@
 # tech-conference-twitter
-Twitter-bot interface for the tech conference calendar
+This is the source code for the Twitter bot that takes submissions, and notifies about additions, to the global tech conference calendar.
